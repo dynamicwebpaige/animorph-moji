@@ -1,0 +1,7 @@
+{
+  "name": "ANIMORPH MOJI - Animal Transformer",
+  "description": "Transform into your favorite animal using Gemini Nano Banana and create a transition video with Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
